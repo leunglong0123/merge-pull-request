@@ -2,7 +2,7 @@ print("helloworld I am at main")
 
 print('eat woof')
 
-print('meow')
+print('eat meow')
 
 print('mehhh')
 
