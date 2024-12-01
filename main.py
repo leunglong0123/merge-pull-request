@@ -6,4 +6,4 @@ print('eat meow')
 
 print('eat mehhh')
 
-print('bloop bloop')
+print('eat bloop bloop')
