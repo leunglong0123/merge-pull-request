@@ -7,3 +7,5 @@ print('eat meow')
 print('eat mehhh')
 
 print('eat bloop bloop')
+
+print('I am a bear')
