@@ -4,6 +4,6 @@ print('eat woof')
 
 print('eat meow')
 
-print('mehhh')
+print('eat mehhh')
 
 print('bloop bloop')
