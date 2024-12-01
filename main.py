@@ -1,9 +1,11 @@
 print("helloworld I am at main")
 
-print('woof')
+print('eat woof')
 
-print('meow')
+print('eat meow')
 
-print('mehhh')
+print('eat mehhh')
 
-print('bloop bloop')
+print('eat bloop bloop')
+
+print('I am a bear')
